@@ -1,0 +1,5 @@
+[
+  { "id": "000001", "author": "Kahlil Gibran", "text": "Kesedihan mengukir paling dalam pada jiwa.", "lang": "id", "category": "life" },
+  { "id": "000002", "author": "Albert Einstein", "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.", "lang": "en", "category": "motivation" },
+  { "id": "000003", "author": "Pramoedya Ananta Toer", "text": "Orang boleh pandai setinggi langit, tapi selama ia tidak menulis, ia akan hilang.", "lang": "id", "category": "writing" }
+]

@@ -1,0 +1,15 @@
+{
+  "functions": {
+    "api/quotes.go": {
+      "includeFiles": "api/data/quotes.json"
+    }
+  },
+  "headers": [
+    {
+      "source": "/api/quotes",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, s-maxage=600, stale-while-revalidate=86400" }
+      ]
+    }
+  ]
+}
